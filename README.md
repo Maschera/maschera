@@ -18,11 +18,11 @@
 
 ### :woman_technologist: About Me:
 I am a Cybersecurity Specialist & Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Turkey.
-- :telescope: I’m working as a Cybersecurity Specialist and contributing to frontend and backend for building web applications & discord bot project & api services.
+- :telescope: I’m working as a cybersecurity specialist and contributing to frontend and backend for building web applications & discord bot project & api services.
 
-- :seedling: Exploring Cybersecurity Fundamentals & News.
+- :seedling: Exploring cybersecurity fundamentals & news.
 
-- :zap: In my free time, I take care of my website (Update & Maintenance) and write blog posts.
+- :zap: In my free time, I take care of my website/server (update & maintenance) and write blog posts.
 
 - :mailbox:How to reach me: berkay.dag@golyatsec.com
 
