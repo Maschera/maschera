@@ -17,7 +17,7 @@
 ---
 
 ### :woman_technologist: About Me:
-I am a Cybersecurity Specialist & Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Turkey.
+I am a Cybersecurity Specialist & Full Stack Developer from Turkey.
 - :telescope: I’m working as a cybersecurity specialist and contributing to frontend and backend for building web applications & discord bot project's & api services.
 
 - :seedling: Exploring cybersecurity fundamentals & news.
