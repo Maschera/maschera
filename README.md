@@ -5,7 +5,7 @@
 ---
 
 ### About Me:
-I am a Cybersecurity Specialist & Backend Developer from Turkey.
+
 - :telescope: I’m working as a cybersecurity specialist and backend developer.
 
 - :mailbox: How to reach me: berkay.dag@golyatsec.com
